@@ -9,3 +9,5 @@ Welcome to this foundational collection of Python projects showcasing core progr
 | **Comment**       | Text ignored by Python to explain the code.     | `# This calculates the area`         |
 | **Input (input)** | Lets you ask the user for information.          | `name = input("What's your name?")`  |
 | **Output (print)**| Displays text or data to the user.              | `print("Hello, World weclome to my GitHub!")`             |
+---
+<h2>📚Variables and User Inputs</h2>
