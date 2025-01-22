@@ -19,4 +19,10 @@ This project is a simple demonstration on how to:
 ![Screenshot 2025-01-19 at 10 05 47 PM](https://github.com/user-attachments/assets/7514f0a6-8a24-40d8-9a30-dae76ae22b42)
 ![Screenshot 2025-01-19 at 10 07 09 PM](https://github.com/user-attachments/assets/4a767542-77e0-4722-b8b9-e674b29bec06)
 ---
-<h2>📚</h2>
+<h2>📚Strings</h2>
+
+In this simple demonstration on strings, the program will:
+1. Ask the user for their first and last name using the input() function.
+2. Combine the user's first and last name dynamically using f-strings for clean and efficient formatting.
+3. Apply the .title() method to ensure the first letter of each name is capitalized.
+
