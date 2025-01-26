@@ -51,3 +51,9 @@ Description: In this exercise we will print a famous quote along with the name o
 ![quote2](https://github.com/user-attachments/assets/ab100289-bf50-40e3-8e49-6d9b46bf4bd7)
 ![quote2ex](https://github.com/user-attachments/assets/334101be-21c9-47c6-a2cf-d28e70fec8d8)
 
+<h3>- Stripping Names</h3>
+Description: This exercise demonstrates how to clean up extra whitespace in strings. We will work with a name containing tabs "\t" and newlines "\n" and use .strip(), .rstrip(), and .lstrip() to remove unwanted spaces and format the text properly.
+
+![nsamestrip](https://github.com/user-attachments/assets/9c463280-847b-46be-baf6-af33fdc3055e)
+
+![namestripex](https://github.com/user-attachments/assets/54244983-0a81-4551-ab45-a85694534dd3)
